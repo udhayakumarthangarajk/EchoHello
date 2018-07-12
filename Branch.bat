@@ -1,1 +1,1 @@
-echo "I am executing from Branch: " $1
+echo "I am executing from Branch1: "
