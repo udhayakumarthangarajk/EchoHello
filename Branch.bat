@@ -1,1 +1,1 @@
-echo "I am executing from: " $1
+echo "I am executing from master: "
